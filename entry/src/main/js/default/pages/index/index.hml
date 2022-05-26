@@ -1,0 +1,5 @@
+<div class="container">
+    <text class="title" @click="click">
+        {{ $t('strings.hello') }} {{ title }}
+    </text>
+</div>

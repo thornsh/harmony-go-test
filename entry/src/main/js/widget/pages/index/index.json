@@ -1,0 +1,17 @@
+{
+  "data": {
+    "title": "Title",
+    "detail": "Text",
+    "iconTitle": "Picture"
+  },
+  "actions": {
+    "routerEvent": {
+      "action": "router",
+      "bundleName": "com.sharedream.demo.harmony.hmservice",
+      "abilityName": "com.sharedream.demo.harmony.MainAbility",
+      "params": {
+        "message": "add detail"
+      }
+    }
+  }
+}
